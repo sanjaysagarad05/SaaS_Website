@@ -20,7 +20,7 @@ function App() {
       <header className="w-full py-4 px-8 flex justify-center items-center ">
         <div className="flex justify-between items-center w-full max-w-screen-lg bg-gray-800 bg-opacity-50 p-4 rounded-xl">
           <div className="text-lg font-semibold">
-            <img src='https://framerusercontent.com/images/sh08yhQRcgeLTg8MSig179cTQ8.png'/>
+            <img src='https://framerusercontent.com/images/sh08yhQRcgeLTg8MSig179cTQ8.png'alt="The image"/>
           </div>
           <nav className="space-x-6">
             <a href="#about" className="hover:underline">About</a>
@@ -62,29 +62,29 @@ function App() {
       </main>
 
       <div className="flex justify-between items-center w-full max-w-screen-lg bg-gray-800 bg-opacity-50 p-4 rounded my-8">
-        <img src="https://framerusercontent.com/images/7cluiGa2zIXh4KaBoIiX4Wd7g.png" />
+        <img src="https://framerusercontent.com/images/7cluiGa2zIXh4KaBoIiX4Wd7g.png"alt="The image" />
       </div>
 
       <p className="text-center font-inter text-base font-normal leading-7 mt-5 text-gray-300">Trusted by fast-growing companies worldwide</p>
       
       <div className="flex flex-wrap justify-center">
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/b7Y3O7MuT7iGqIn9B8URsLPe9Zs.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/b7Y3O7MuT7iGqIn9B8URsLPe9Zs.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/2FqRvjIsBIFF4zz0B5qX5zjd9ho.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/2FqRvjIsBIFF4zz0B5qX5zjd9ho.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/H0nYSP9UqjVanFxgROEITBt8c.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/H0nYSP9UqjVanFxgROEITBt8c.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/ImBGm7FEySu7sDDQIAnnolcQq4.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/ImBGm7FEySu7sDDQIAnnolcQq4.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/eboSRZ3S0bc7XvtDG9NJTZkNr8.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/eboSRZ3S0bc7XvtDG9NJTZkNr8.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
   <div className="w-1/2 md:w-1/4 lg:w-1/6 p-2">
-    <img src="https://framerusercontent.com/images/hLfweuYR0swEKeJaGTFJTXcJz4M.svg" alt="" className="w-full h-full object-cover rounded-lg"/>
+    <img src="https://framerusercontent.com/images/hLfweuYR0swEKeJaGTFJTXcJz4M.svg" alt="The image" className="w-full h-full object-cover rounded-lg"/>
   </div>
 </div>
 
@@ -95,7 +95,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <div className="bg-white rounded-lg shadow-md p-6 bg-opacity-5 ">
                   <div className="flex items-center justify-center bg-gray-100  w-12 h-8 bg-opacity-5">
-                 <img src="https://cdn.create.vista.com/api/media/small/440249754/stock-video-turquoise-pencil-and-gear-icon-isolated-on-blue-background-creative-development-blogging-or-copywriting-concept?videoStaticPreview=true&token="  />
+                 <img src="https://cdn.create.vista.com/api/media/small/440249754/stock-video-turquoise-pencil-and-gear-icon-isolated-on-blue-background-creative-development-blogging-or-copywriting-concept?videoStaticPreview=true&token=" alt="The image"  />
                   </div>
                   <p className="mt-4 text-gray-500 text-center">Craft a winning solution that not only draws in more customers but also secures bigger projects.</p>
                 </div>
@@ -132,6 +132,7 @@ function App() {
           <img
             src="https://framerusercontent.com/images/OYx7j0kTuXKuhy21dIzv4Sejz0Q.svg"
             className="w-full h-full rounded object-cover"
+            alt="The image"
           />
         </div>
       </div>
@@ -228,13 +229,13 @@ function App() {
     <div className='flex justify-between items-center w-full max-w-screen-lg bg-gray-800 bg-opacity-0 p-1 rounded px-10'>
       <div className=' flex justify-between px-1  py-10'>
             <div className='border border-black rounded-lg '>
-              <img src="https://framerusercontent.com/images/3uS8DUPZeyJ5GU35aRHJgFx594.png"  />
+              <img src="https://framerusercontent.com/images/3uS8DUPZeyJ5GU35aRHJgFx594.png" alt="The image" />
             </div>
             <div className='border border-black rounded-lg  '>
-              <img src="https://framerusercontent.com/images/XZv3jSCQ5RqwC9bnJNfup2aWB90.png"  />
+              <img src="https://framerusercontent.com/images/XZv3jSCQ5RqwC9bnJNfup2aWB90.png" alt="The image" />
             </div>
             <div className='border border-black rounded-lg '>
-              <img src="https://framerusercontent.com/images/i92vyn1xS1aIVks1HCJduxyc1I.png" />
+              <img src="https://framerusercontent.com/images/i92vyn1xS1aIVks1HCJduxyc1I.png" alt="The image"/>
             </div>
           </div>
       </div>
